@@ -4,4 +4,4 @@ I'm a Full Stack Engineer at [Modus Create](https://www.moduscreate.com), where 
 
 Find me on [Twitter](https://www.twitter.com/oumguido/), [LinkedIn](https://www.linkedin.com/in/guidopercu/) or on my [blog](https://www.guidopercu.dev/).
 
-:books: :chart_with_upwards_trend::computer:
+:books: :chart_with_upwards_trend: :computer:

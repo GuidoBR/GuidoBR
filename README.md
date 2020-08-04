@@ -4,6 +4,13 @@ I'm a Full Stack Engineer at [Modus Create](https://www.moduscreate.com), where 
 
 Find me on [Twitter](https://www.twitter.com/oumguido/), [LinkedIn](https://www.linkedin.com/in/guidopercu/) or on my [blog](https://www.guidopercu.dev/).
 
-![Guido's github stats](https://github-readme-stats.vercel.app/api?username=guidobr&show_icons=true&theme=radical)
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidobr&hide=html&layout=compact" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=guidobr&theme=radical" /></td>
+  </tr>   
+</table>
+</center>
 
 :books: :chart_with_upwards_trend: :computer:

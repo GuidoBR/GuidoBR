@@ -8,7 +8,7 @@ Find me on [Twitter](https://www.twitter.com/oumguido/), [LinkedIn](https://www.
 <table>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidobr&hide=html&layout=compact" /></td>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=guidobr&theme=radical" /></td>
+      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=guidobr&theme=radical&hide=css" /></td>
   </tr>   
 </table>
 </center>
